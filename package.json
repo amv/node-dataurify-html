@@ -1,6 +1,6 @@
 {
   "name": "dataurify-html",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Simple cli utility to convert single HTML files to data URIs",
   "main": "index.js",
   "scripts": {
