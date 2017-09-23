@@ -1,0 +1,33 @@
+{
+  "name": "dataurify-html",
+  "version": "0.1.0",
+  "description": "Simple cli utility to convert single HTML files to data URIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "dataurify-html": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amv/node-dataurify-html.git"
+  },
+  "keywords": [
+    "html",
+    "datauri",
+    "dataurl",
+    "data",
+    "uri",
+    "url"
+  ],
+  "author": "Antti Vähäkotamäki <antti@dicole.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amv/node-dataurify-html/issues"
+  },
+  "homepage": "https://github.com/amv/node-dataurify-html#readme",
+  "dependencies": {
+    "concat-stream": "^1.6.0"
+  }
+}
